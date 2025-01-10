@@ -1,0 +1,2 @@
+bazel_dep(name = "rules_android", version = "0.5.1")
+bazel_dep(name = "rules_android_ndk", version = "0.1.2")
